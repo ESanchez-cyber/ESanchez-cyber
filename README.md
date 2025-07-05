@@ -1,16 +1,15 @@
-## Hi there 👋
+>Hi, I'm Edgardo
 
-<!--
-**ESanchez-cyber/ESanchez-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+  - active directory home lab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Certifications</h2>
+
+- Google CyberSecurity professional certificate(https://www.coursera.org/account/accomplishments/professional-cert/HVIZKI41MT5I)
+- Comptia Network + N10-009 (Code: 5Q2HJC4Q8M1EYC2J
+Criteria: N10-009 - CompTIA Network+ ce certification exam
+Verify at: http://verify.CompTIA.org)
+- Comptia SEcurity + Sy0-701 (Code: F4C05LZYQBBQQ4SX
+Criteria: SY0-701 - CompTIA Security+ certification exam
+Verify at: http://verify.CompTIA.org)
